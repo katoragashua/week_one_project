@@ -95,6 +95,12 @@ button:focus-visible {
 
 .btn button {
   border-radius: 25px;
+  color: #ffffff;
+}
+
+.btn button:hover {
+  background-color: transparent;
+  border: #ffffff 2px solid;
 }
 
 .title {
